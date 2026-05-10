@@ -1,4 +1,4 @@
-# modelsForDoc
+# Context Aware Document Intelligence RAG System
 
 `modelsForDoc` is a full-stack Retrieval-Augmented Generation (RAG) application that lets a user upload documents, index their contents, and ask natural-language questions grounded in those documents.
 
